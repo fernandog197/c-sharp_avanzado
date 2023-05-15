@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\obj\Debug\net7.0\01-collections-Array_List_01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\obj\Debug\net7.0\01-collections-Array_List_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\obj\Debug\net7.0\01-collections-Array_List_01.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\obj\Debug\net7.0\01-collections-Array_List_01.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\obj\Debug\net7.0\01-collections-Array_List_01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\bin\Debug\net7.0\01-collections-Array_List_01.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\bin\Debug\net7.0\01-collections-Array_List_01.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\bin\Debug\net7.0\01-collections-Array_List_01.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\bin\Debug\net7.0\01-collections-Array_List_01.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\bin\Debug\net7.0\01-collections-Array_List_01.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\obj\Debug\net7.0\01-collections-Array_List_01.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\obj\Debug\net7.0\refint\01-collections-Array_List_01.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\obj\Debug\net7.0\01-collections-Array_List_01.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\obj\Debug\net7.0\01-collections-Array_List_01.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\01-collections-Array_List_01\obj\Debug\net7.0\ref\01-collections-Array_List_01.dll
