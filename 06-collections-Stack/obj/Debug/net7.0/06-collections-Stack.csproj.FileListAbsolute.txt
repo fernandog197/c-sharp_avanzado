@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\bin\Debug\net7.0\06-collections-Stack.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\bin\Debug\net7.0\06-collections-Stack.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\bin\Debug\net7.0\06-collections-Stack.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\bin\Debug\net7.0\06-collections-Stack.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\bin\Debug\net7.0\06-collections-Stack.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\obj\Debug\net7.0\06-collections-Stack.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\obj\Debug\net7.0\06-collections-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\obj\Debug\net7.0\06-collections-Stack.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\obj\Debug\net7.0\06-collections-Stack.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\obj\Debug\net7.0\06-collections-Stack.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\obj\Debug\net7.0\06-collections-Stack.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\obj\Debug\net7.0\refint\06-collections-Stack.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\obj\Debug\net7.0\06-collections-Stack.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\obj\Debug\net7.0\06-collections-Stack.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\06-collections-Stack\obj\Debug\net7.0\ref\06-collections-Stack.dll
