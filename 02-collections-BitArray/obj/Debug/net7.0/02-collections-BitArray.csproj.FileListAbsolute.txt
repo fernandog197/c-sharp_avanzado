@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\bin\Debug\net7.0\02-collections-BitArray.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\bin\Debug\net7.0\02-collections-BitArray.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\bin\Debug\net7.0\02-collections-BitArray.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\bin\Debug\net7.0\02-collections-BitArray.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\bin\Debug\net7.0\02-collections-BitArray.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\obj\Debug\net7.0\02-collections-BitArray.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\obj\Debug\net7.0\02-collections-BitArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\obj\Debug\net7.0\02-collections-BitArray.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\obj\Debug\net7.0\02-collections-BitArray.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\obj\Debug\net7.0\02-collections-BitArray.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\obj\Debug\net7.0\02-collections-BitArray.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\obj\Debug\net7.0\refint\02-collections-BitArray.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\obj\Debug\net7.0\02-collections-BitArray.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\obj\Debug\net7.0\02-collections-BitArray.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\02-collections-BitArray\obj\Debug\net7.0\ref\02-collections-BitArray.dll
