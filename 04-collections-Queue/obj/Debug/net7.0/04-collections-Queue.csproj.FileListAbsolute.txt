@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\bin\Debug\net7.0\04-collections-Queue.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\bin\Debug\net7.0\04-collections-Queue.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\bin\Debug\net7.0\04-collections-Queue.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\bin\Debug\net7.0\04-collections-Queue.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\bin\Debug\net7.0\04-collections-Queue.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\obj\Debug\net7.0\04-collections-Queue.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\obj\Debug\net7.0\04-collections-Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\obj\Debug\net7.0\04-collections-Queue.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\obj\Debug\net7.0\04-collections-Queue.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\obj\Debug\net7.0\04-collections-Queue.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\obj\Debug\net7.0\04-collections-Queue.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\obj\Debug\net7.0\refint\04-collections-Queue.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\obj\Debug\net7.0\04-collections-Queue.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\obj\Debug\net7.0\04-collections-Queue.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\04-collections-Queue\obj\Debug\net7.0\ref\04-collections-Queue.dll
