@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\bin\Debug\net7.0\09-collections_generic-Sorted_Set.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\bin\Debug\net7.0\09-collections_generic-Sorted_Set.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\bin\Debug\net7.0\09-collections_generic-Sorted_Set.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\bin\Debug\net7.0\09-collections_generic-Sorted_Set.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\bin\Debug\net7.0\09-collections_generic-Sorted_Set.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\obj\Debug\net7.0\09-collections_generic-Sorted_Set.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\obj\Debug\net7.0\09-collections_generic-Sorted_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\obj\Debug\net7.0\09-collections_generic-Sorted_Set.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\obj\Debug\net7.0\09-collections_generic-Sorted_Set.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\obj\Debug\net7.0\09-collections_generic-Sorted_Set.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\obj\Debug\net7.0\09-collections_generic-Sorted_Set.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\obj\Debug\net7.0\refint\09-collections_generic-Sorted_Set.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\obj\Debug\net7.0\09-collections_generic-Sorted_Set.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\obj\Debug\net7.0\09-collections_generic-Sorted_Set.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\09-collections_generic-Sorted_Set\obj\Debug\net7.0\ref\09-collections_generic-Sorted_Set.dll
