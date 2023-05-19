@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\bin\Debug\net7.0\10-collections_generic-Observable_collection.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\bin\Debug\net7.0\10-collections_generic-Observable_collection.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\bin\Debug\net7.0\10-collections_generic-Observable_collection.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\bin\Debug\net7.0\10-collections_generic-Observable_collection.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\bin\Debug\net7.0\10-collections_generic-Observable_collection.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\obj\Debug\net7.0\10-collections_generic-Observable_collection.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\obj\Debug\net7.0\10-collections_generic-Observable_collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\obj\Debug\net7.0\10-collections_generic-Observable_collection.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\obj\Debug\net7.0\10-collections_generic-Observable_collection.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\obj\Debug\net7.0\10-collections_generic-Observable_collection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\obj\Debug\net7.0\10-collections_generic-Observable_collection.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\obj\Debug\net7.0\refint\10-collections_generic-Observable_collection.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\obj\Debug\net7.0\10-collections_generic-Observable_collection.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\obj\Debug\net7.0\10-collections_generic-Observable_collection.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\10-collections_generic-Observable_collection\obj\Debug\net7.0\ref\10-collections_generic-Observable_collection.dll
