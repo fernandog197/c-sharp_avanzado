@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\bin\Debug\net7.0\11-Var.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\bin\Debug\net7.0\11-Var.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\bin\Debug\net7.0\11-Var.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\bin\Debug\net7.0\11-Var.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\bin\Debug\net7.0\11-Var.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\obj\Debug\net7.0\11-Var.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\obj\Debug\net7.0\11-Var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\obj\Debug\net7.0\11-Var.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\obj\Debug\net7.0\11-Var.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\obj\Debug\net7.0\11-Var.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\obj\Debug\net7.0\11-Var.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\obj\Debug\net7.0\refint\11-Var.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\obj\Debug\net7.0\11-Var.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\obj\Debug\net7.0\11-Var.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\11-Var\obj\Debug\net7.0\ref\11-Var.dll
