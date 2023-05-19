@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\bin\Debug\net7.0\08-collections_generic-Stack-Queue.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\bin\Debug\net7.0\08-collections_generic-Stack-Queue.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\bin\Debug\net7.0\08-collections_generic-Stack-Queue.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\bin\Debug\net7.0\08-collections_generic-Stack-Queue.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\bin\Debug\net7.0\08-collections_generic-Stack-Queue.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\obj\Debug\net7.0\08-collections_generic-Stack-Queue.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\obj\Debug\net7.0\08-collections_generic-Stack-Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\obj\Debug\net7.0\08-collections_generic-Stack-Queue.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\obj\Debug\net7.0\08-collections_generic-Stack-Queue.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\obj\Debug\net7.0\08-collections_generic-Stack-Queue.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\obj\Debug\net7.0\08-collections_generic-Stack-Queue.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\obj\Debug\net7.0\refint\08-collections_generic-Stack-Queue.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\obj\Debug\net7.0\08-collections_generic-Stack-Queue.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\obj\Debug\net7.0\08-collections_generic-Stack-Queue.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\08-collections_generic-Stack-Queue\obj\Debug\net7.0\ref\08-collections_generic-Stack-Queue.dll
