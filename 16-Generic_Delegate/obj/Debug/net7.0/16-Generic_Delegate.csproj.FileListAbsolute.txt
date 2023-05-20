@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\bin\Debug\net7.0\16-Generic_Delegate.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\bin\Debug\net7.0\16-Generic_Delegate.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\bin\Debug\net7.0\16-Generic_Delegate.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\bin\Debug\net7.0\16-Generic_Delegate.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\bin\Debug\net7.0\16-Generic_Delegate.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\obj\Debug\net7.0\16-Generic_Delegate.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\obj\Debug\net7.0\16-Generic_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\obj\Debug\net7.0\16-Generic_Delegate.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\obj\Debug\net7.0\16-Generic_Delegate.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\obj\Debug\net7.0\16-Generic_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\obj\Debug\net7.0\16-Generic_Delegate.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\obj\Debug\net7.0\refint\16-Generic_Delegate.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\obj\Debug\net7.0\16-Generic_Delegate.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\obj\Debug\net7.0\16-Generic_Delegate.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\16-Generic_Delegate\obj\Debug\net7.0\ref\16-Generic_Delegate.dll
