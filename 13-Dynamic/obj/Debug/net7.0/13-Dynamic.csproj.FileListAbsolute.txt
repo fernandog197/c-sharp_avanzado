@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\bin\Debug\net7.0\13-Dynamic.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\bin\Debug\net7.0\13-Dynamic.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\bin\Debug\net7.0\13-Dynamic.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\bin\Debug\net7.0\13-Dynamic.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\bin\Debug\net7.0\13-Dynamic.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\obj\Debug\net7.0\13-Dynamic.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\obj\Debug\net7.0\13-Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\obj\Debug\net7.0\13-Dynamic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\obj\Debug\net7.0\13-Dynamic.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\obj\Debug\net7.0\13-Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\obj\Debug\net7.0\13-Dynamic.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\obj\Debug\net7.0\refint\13-Dynamic.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\obj\Debug\net7.0\13-Dynamic.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\obj\Debug\net7.0\13-Dynamic.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\13-Dynamic\obj\Debug\net7.0\ref\13-Dynamic.dll
