@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\obj\Debug\net7.0\12-Nulleable.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\obj\Debug\net7.0\12-Nulleable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\obj\Debug\net7.0\12-Nulleable.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\obj\Debug\net7.0\12-Nulleable.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\obj\Debug\net7.0\12-Nulleable.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\bin\Debug\net7.0\12-Nulleable.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\bin\Debug\net7.0\12-Nulleable.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\bin\Debug\net7.0\12-Nulleable.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\bin\Debug\net7.0\12-Nulleable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\bin\Debug\net7.0\12-Nulleable.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\obj\Debug\net7.0\12-Nulleable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\obj\Debug\net7.0\refint\12-Nulleable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\obj\Debug\net7.0\12-Nulleable.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\obj\Debug\net7.0\12-Nulleable.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\12-Nulleable\obj\Debug\net7.0\ref\12-Nulleable.dll
