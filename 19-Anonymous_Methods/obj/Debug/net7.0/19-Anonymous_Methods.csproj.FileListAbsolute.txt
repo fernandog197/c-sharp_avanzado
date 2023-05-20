@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\bin\Debug\net7.0\19-Anonymous_Methods.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\bin\Debug\net7.0\19-Anonymous_Methods.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\bin\Debug\net7.0\19-Anonymous_Methods.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\bin\Debug\net7.0\19-Anonymous_Methods.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\bin\Debug\net7.0\19-Anonymous_Methods.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\obj\Debug\net7.0\19-Anonymous_Methods.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\obj\Debug\net7.0\19-Anonymous_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\obj\Debug\net7.0\19-Anonymous_Methods.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\obj\Debug\net7.0\19-Anonymous_Methods.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\obj\Debug\net7.0\19-Anonymous_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\obj\Debug\net7.0\19-Anonymous_Methods.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\obj\Debug\net7.0\refint\19-Anonymous_Methods.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\obj\Debug\net7.0\19-Anonymous_Methods.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\obj\Debug\net7.0\19-Anonymous_Methods.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\19-Anonymous_Methods\obj\Debug\net7.0\ref\19-Anonymous_Methods.dll
