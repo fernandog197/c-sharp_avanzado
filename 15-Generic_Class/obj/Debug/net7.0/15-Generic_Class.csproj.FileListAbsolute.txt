@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\bin\Debug\net7.0\15-Generic_Class.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\bin\Debug\net7.0\15-Generic_Class.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\bin\Debug\net7.0\15-Generic_Class.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\bin\Debug\net7.0\15-Generic_Class.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\bin\Debug\net7.0\15-Generic_Class.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\obj\Debug\net7.0\15-Generic_Class.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\obj\Debug\net7.0\15-Generic_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\obj\Debug\net7.0\15-Generic_Class.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\obj\Debug\net7.0\15-Generic_Class.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\obj\Debug\net7.0\15-Generic_Class.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\obj\Debug\net7.0\15-Generic_Class.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\obj\Debug\net7.0\refint\15-Generic_Class.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\obj\Debug\net7.0\15-Generic_Class.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\obj\Debug\net7.0\15-Generic_Class.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\15-Generic_Class\obj\Debug\net7.0\ref\15-Generic_Class.dll
