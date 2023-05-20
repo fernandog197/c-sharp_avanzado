@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\bin\Debug\net7.0\14-Generic_Methods.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\bin\Debug\net7.0\14-Generic_Methods.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\bin\Debug\net7.0\14-Generic_Methods.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\bin\Debug\net7.0\14-Generic_Methods.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\bin\Debug\net7.0\14-Generic_Methods.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\obj\Debug\net7.0\14-Generic_Methods.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\obj\Debug\net7.0\14-Generic_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\obj\Debug\net7.0\14-Generic_Methods.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\obj\Debug\net7.0\14-Generic_Methods.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\obj\Debug\net7.0\14-Generic_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\obj\Debug\net7.0\14-Generic_Methods.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\obj\Debug\net7.0\refint\14-Generic_Methods.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\obj\Debug\net7.0\14-Generic_Methods.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\obj\Debug\net7.0\14-Generic_Methods.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\14-Generic_Methods\obj\Debug\net7.0\ref\14-Generic_Methods.dll
