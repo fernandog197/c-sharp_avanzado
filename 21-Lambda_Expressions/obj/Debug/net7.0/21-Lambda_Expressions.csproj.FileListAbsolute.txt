@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\bin\Debug\net7.0\21-Lambda_Expressions.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\bin\Debug\net7.0\21-Lambda_Expressions.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\bin\Debug\net7.0\21-Lambda_Expressions.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\bin\Debug\net7.0\21-Lambda_Expressions.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\bin\Debug\net7.0\21-Lambda_Expressions.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\obj\Debug\net7.0\21-Lambda_Expressions.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\obj\Debug\net7.0\21-Lambda_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\obj\Debug\net7.0\21-Lambda_Expressions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\obj\Debug\net7.0\21-Lambda_Expressions.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\obj\Debug\net7.0\21-Lambda_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\obj\Debug\net7.0\21-Lambda_Expressions.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\obj\Debug\net7.0\refint\21-Lambda_Expressions.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\obj\Debug\net7.0\21-Lambda_Expressions.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\obj\Debug\net7.0\21-Lambda_Expressions.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\21-Lambda_Expressions\obj\Debug\net7.0\ref\21-Lambda_Expressions.dll
