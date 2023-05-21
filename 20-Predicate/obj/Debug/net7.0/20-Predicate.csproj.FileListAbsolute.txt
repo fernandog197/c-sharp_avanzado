@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\bin\Debug\net7.0\20-Predicate.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\bin\Debug\net7.0\20-Predicate.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\bin\Debug\net7.0\20-Predicate.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\bin\Debug\net7.0\20-Predicate.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\bin\Debug\net7.0\20-Predicate.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\obj\Debug\net7.0\20-Predicate.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\obj\Debug\net7.0\20-Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\obj\Debug\net7.0\20-Predicate.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\obj\Debug\net7.0\20-Predicate.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\obj\Debug\net7.0\20-Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\obj\Debug\net7.0\20-Predicate.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\obj\Debug\net7.0\refint\20-Predicate.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\obj\Debug\net7.0\20-Predicate.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\obj\Debug\net7.0\20-Predicate.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\20-Predicate\obj\Debug\net7.0\ref\20-Predicate.dll
