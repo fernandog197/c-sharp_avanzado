@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\bin\Debug\net7.0\23-implicit_conversion.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\bin\Debug\net7.0\23-implicit_conversion.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\bin\Debug\net7.0\23-implicit_conversion.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\bin\Debug\net7.0\23-implicit_conversion.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\bin\Debug\net7.0\23-implicit_conversion.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\obj\Debug\net7.0\23-implicit_conversion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\obj\Debug\net7.0\23-implicit_conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\obj\Debug\net7.0\23-implicit_conversion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\obj\Debug\net7.0\23-implicit_conversion.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\obj\Debug\net7.0\23-implicit_conversion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\obj\Debug\net7.0\23-implicit_conversion.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\obj\Debug\net7.0\refint\23-implicit_conversion.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\obj\Debug\net7.0\23-implicit_conversion.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\obj\Debug\net7.0\23-implicit_conversion.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\23-implicit_conversion\obj\Debug\net7.0\ref\23-implicit_conversion.dll

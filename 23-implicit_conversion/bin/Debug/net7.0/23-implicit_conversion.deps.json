@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "23-implicit_conversion/1.0.0": {
+        "runtime": {
+          "23-implicit_conversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23-implicit_conversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
