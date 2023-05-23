@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\bin\Debug\net7.0\27-Interface_Management.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\bin\Debug\net7.0\27-Interface_Management.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\bin\Debug\net7.0\27-Interface_Management.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\bin\Debug\net7.0\27-Interface_Management.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\bin\Debug\net7.0\27-Interface_Management.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\obj\Debug\net7.0\27-Interface_Management.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\obj\Debug\net7.0\27-Interface_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\obj\Debug\net7.0\27-Interface_Management.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\obj\Debug\net7.0\27-Interface_Management.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\obj\Debug\net7.0\27-Interface_Management.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\obj\Debug\net7.0\27-Interface_Management.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\obj\Debug\net7.0\refint\27-Interface_Management.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\obj\Debug\net7.0\27-Interface_Management.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\obj\Debug\net7.0\27-Interface_Management.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\27-Interface_Management\obj\Debug\net7.0\ref\27-Interface_Management.dll
