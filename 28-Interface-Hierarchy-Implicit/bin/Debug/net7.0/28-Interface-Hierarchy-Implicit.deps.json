@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "28-Interface-Hierarchy-Implicit/1.0.0": {
+        "runtime": {
+          "28-Interface-Hierarchy-Implicit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "28-Interface-Hierarchy-Implicit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

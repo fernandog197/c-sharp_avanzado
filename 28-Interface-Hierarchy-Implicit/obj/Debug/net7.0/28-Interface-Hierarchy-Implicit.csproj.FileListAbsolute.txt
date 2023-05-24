@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\bin\Debug\net7.0\28-Interface-Hierarchy-Implicit.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\bin\Debug\net7.0\28-Interface-Hierarchy-Implicit.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\bin\Debug\net7.0\28-Interface-Hierarchy-Implicit.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\bin\Debug\net7.0\28-Interface-Hierarchy-Implicit.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\bin\Debug\net7.0\28-Interface-Hierarchy-Implicit.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\obj\Debug\net7.0\28-Interface-Hierarchy-Implicit.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\obj\Debug\net7.0\28-Interface-Hierarchy-Implicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\obj\Debug\net7.0\28-Interface-Hierarchy-Implicit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\obj\Debug\net7.0\28-Interface-Hierarchy-Implicit.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\obj\Debug\net7.0\28-Interface-Hierarchy-Implicit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\obj\Debug\net7.0\28-Interface-Hierarchy-Implicit.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\obj\Debug\net7.0\refint\28-Interface-Hierarchy-Implicit.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\obj\Debug\net7.0\28-Interface-Hierarchy-Implicit.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\obj\Debug\net7.0\28-Interface-Hierarchy-Implicit.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\28-Interface-Hierarchy-Implicit\obj\Debug\net7.0\ref\28-Interface-Hierarchy-Implicit.dll
