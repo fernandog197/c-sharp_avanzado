@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\bin\Debug\net7.0\32-Multiple_Exceptions.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\bin\Debug\net7.0\32-Multiple_Exceptions.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\bin\Debug\net7.0\32-Multiple_Exceptions.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\bin\Debug\net7.0\32-Multiple_Exceptions.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\bin\Debug\net7.0\32-Multiple_Exceptions.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\obj\Debug\net7.0\32-Multiple_Exceptions.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\obj\Debug\net7.0\32-Multiple_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\obj\Debug\net7.0\32-Multiple_Exceptions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\obj\Debug\net7.0\32-Multiple_Exceptions.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\obj\Debug\net7.0\32-Multiple_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\obj\Debug\net7.0\32-Multiple_Exceptions.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\obj\Debug\net7.0\refint\32-Multiple_Exceptions.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\obj\Debug\net7.0\32-Multiple_Exceptions.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\obj\Debug\net7.0\32-Multiple_Exceptions.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\32-Multiple_Exceptions\obj\Debug\net7.0\ref\32-Multiple_Exceptions.dll
