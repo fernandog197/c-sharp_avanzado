@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\bin\Debug\net7.0\33-Object_Life_time.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\bin\Debug\net7.0\33-Object_Life_time.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\bin\Debug\net7.0\33-Object_Life_time.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\bin\Debug\net7.0\33-Object_Life_time.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\bin\Debug\net7.0\33-Object_Life_time.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\obj\Debug\net7.0\33-Object_Life_time.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\obj\Debug\net7.0\33-Object_Life_time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\obj\Debug\net7.0\33-Object_Life_time.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\obj\Debug\net7.0\33-Object_Life_time.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\obj\Debug\net7.0\33-Object_Life_time.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\obj\Debug\net7.0\33-Object_Life_time.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\obj\Debug\net7.0\refint\33-Object_Life_time.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\obj\Debug\net7.0\33-Object_Life_time.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\obj\Debug\net7.0\33-Object_Life_time.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\33-Object_Life_time\obj\Debug\net7.0\ref\33-Object_Life_time.dll
