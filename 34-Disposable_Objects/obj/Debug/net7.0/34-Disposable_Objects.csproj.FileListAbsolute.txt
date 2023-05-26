@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\bin\Debug\net7.0\34-Disposable_Objects.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\bin\Debug\net7.0\34-Disposable_Objects.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\bin\Debug\net7.0\34-Disposable_Objects.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\bin\Debug\net7.0\34-Disposable_Objects.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\bin\Debug\net7.0\34-Disposable_Objects.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\obj\Debug\net7.0\34-Disposable_Objects.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\obj\Debug\net7.0\34-Disposable_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\obj\Debug\net7.0\34-Disposable_Objects.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\obj\Debug\net7.0\34-Disposable_Objects.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\obj\Debug\net7.0\34-Disposable_Objects.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\obj\Debug\net7.0\34-Disposable_Objects.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\obj\Debug\net7.0\refint\34-Disposable_Objects.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\obj\Debug\net7.0\34-Disposable_Objects.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\obj\Debug\net7.0\34-Disposable_Objects.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\34-Disposable_Objects\obj\Debug\net7.0\ref\34-Disposable_Objects.dll
