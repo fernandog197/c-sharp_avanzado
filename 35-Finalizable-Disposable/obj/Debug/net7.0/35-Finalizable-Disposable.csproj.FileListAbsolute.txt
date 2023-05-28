@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\bin\Debug\net7.0\35-Finalizable-Disposable.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\bin\Debug\net7.0\35-Finalizable-Disposable.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\bin\Debug\net7.0\35-Finalizable-Disposable.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\bin\Debug\net7.0\35-Finalizable-Disposable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\bin\Debug\net7.0\35-Finalizable-Disposable.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\obj\Debug\net7.0\35-Finalizable-Disposable.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\obj\Debug\net7.0\35-Finalizable-Disposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\obj\Debug\net7.0\35-Finalizable-Disposable.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\obj\Debug\net7.0\35-Finalizable-Disposable.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\obj\Debug\net7.0\35-Finalizable-Disposable.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\obj\Debug\net7.0\35-Finalizable-Disposable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\obj\Debug\net7.0\refint\35-Finalizable-Disposable.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\obj\Debug\net7.0\35-Finalizable-Disposable.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\obj\Debug\net7.0\35-Finalizable-Disposable.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\35-Finalizable-Disposable\obj\Debug\net7.0\ref\35-Finalizable-Disposable.dll
