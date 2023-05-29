@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\bin\Debug\net7.0\Libreria.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\bin\Debug\net7.0\Libreria.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\bin\Debug\net7.0\Libreria.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\obj\Debug\net7.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\obj\Debug\net7.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\obj\Debug\net7.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\obj\Debug\net7.0\Libreria.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\obj\Debug\net7.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\obj\Debug\net7.0\Libreria.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\obj\Debug\net7.0\refint\Libreria.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\obj\Debug\net7.0\Libreria.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\37-Library\Libreria\obj\Debug\net7.0\ref\Libreria.dll
