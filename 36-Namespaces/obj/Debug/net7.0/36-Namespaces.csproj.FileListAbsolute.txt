@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\bin\Debug\net7.0\36-Namespaces.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\bin\Debug\net7.0\36-Namespaces.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\bin\Debug\net7.0\36-Namespaces.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\bin\Debug\net7.0\36-Namespaces.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\bin\Debug\net7.0\36-Namespaces.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\obj\Debug\net7.0\36-Namespaces.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\obj\Debug\net7.0\36-Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\obj\Debug\net7.0\36-Namespaces.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\obj\Debug\net7.0\36-Namespaces.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\obj\Debug\net7.0\36-Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\obj\Debug\net7.0\36-Namespaces.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\obj\Debug\net7.0\refint\36-Namespaces.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\obj\Debug\net7.0\36-Namespaces.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\obj\Debug\net7.0\36-Namespaces.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\36-Namespaces\obj\Debug\net7.0\ref\36-Namespaces.dll
