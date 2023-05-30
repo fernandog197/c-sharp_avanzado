@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\bin\Debug\net7.0\38-System.Configuration.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\bin\Debug\net7.0\38-System.Configuration.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\bin\Debug\net7.0\38-System.Configuration.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\bin\Debug\net7.0\38-System.Configuration.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\bin\Debug\net7.0\38-System.Configuration.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\obj\Debug\net7.0\38-System.Configuration.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\obj\Debug\net7.0\38-System.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\obj\Debug\net7.0\38-System.Configuration.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\obj\Debug\net7.0\38-System.Configuration.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\obj\Debug\net7.0\38-System.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\obj\Debug\net7.0\38-System.Configuration.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\obj\Debug\net7.0\refint\38-System.Configuration.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\obj\Debug\net7.0\38-System.Configuration.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\obj\Debug\net7.0\38-System.Configuration.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\38-System.Configuration\obj\Debug\net7.0\ref\38-System.Configuration.dll
