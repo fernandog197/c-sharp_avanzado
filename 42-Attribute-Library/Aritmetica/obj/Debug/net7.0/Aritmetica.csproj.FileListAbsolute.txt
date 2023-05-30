@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\bin\Debug\net7.0\Aritmetica.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\bin\Debug\net7.0\Aritmetica.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\bin\Debug\net7.0\Aritmetica.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\obj\Debug\net7.0\Aritmetica.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\obj\Debug\net7.0\Aritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\obj\Debug\net7.0\Aritmetica.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\obj\Debug\net7.0\Aritmetica.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\obj\Debug\net7.0\Aritmetica.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\obj\Debug\net7.0\Aritmetica.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\obj\Debug\net7.0\refint\Aritmetica.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\obj\Debug\net7.0\Aritmetica.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\42-Attribute-Library\Aritmetica\obj\Debug\net7.0\ref\Aritmetica.dll

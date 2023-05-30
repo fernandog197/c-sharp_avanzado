@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Prueba/1.0.0": {
+        "dependencies": {
+          "Aritmetica": "1.0.0"
+        },
+        "runtime": {
+          "Prueba.dll": {}
+        }
+      },
+      "Aritmetica/1.0.0": {
+        "runtime": {
+          "Aritmetica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aritmetica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
