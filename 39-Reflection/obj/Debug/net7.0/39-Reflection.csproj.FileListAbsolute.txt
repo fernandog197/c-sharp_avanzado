@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\bin\Debug\net7.0\39-Reflection.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\bin\Debug\net7.0\39-Reflection.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\bin\Debug\net7.0\39-Reflection.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\bin\Debug\net7.0\39-Reflection.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\bin\Debug\net7.0\39-Reflection.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\obj\Debug\net7.0\39-Reflection.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\obj\Debug\net7.0\39-Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\obj\Debug\net7.0\39-Reflection.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\obj\Debug\net7.0\39-Reflection.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\obj\Debug\net7.0\39-Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\obj\Debug\net7.0\39-Reflection.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\obj\Debug\net7.0\refint\39-Reflection.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\obj\Debug\net7.0\39-Reflection.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\obj\Debug\net7.0\39-Reflection.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\39-Reflection\obj\Debug\net7.0\ref\39-Reflection.dll
