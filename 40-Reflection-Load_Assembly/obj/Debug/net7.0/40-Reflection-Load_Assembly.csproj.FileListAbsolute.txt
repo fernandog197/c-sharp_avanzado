@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\bin\Debug\net7.0\40-Reflection-Load_Assembly.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\bin\Debug\net7.0\40-Reflection-Load_Assembly.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\bin\Debug\net7.0\40-Reflection-Load_Assembly.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\bin\Debug\net7.0\40-Reflection-Load_Assembly.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\bin\Debug\net7.0\40-Reflection-Load_Assembly.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\obj\Debug\net7.0\40-Reflection-Load_Assembly.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\obj\Debug\net7.0\40-Reflection-Load_Assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\obj\Debug\net7.0\40-Reflection-Load_Assembly.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\obj\Debug\net7.0\40-Reflection-Load_Assembly.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\obj\Debug\net7.0\40-Reflection-Load_Assembly.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\obj\Debug\net7.0\40-Reflection-Load_Assembly.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\obj\Debug\net7.0\refint\40-Reflection-Load_Assembly.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\obj\Debug\net7.0\40-Reflection-Load_Assembly.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\obj\Debug\net7.0\40-Reflection-Load_Assembly.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\40-Reflection-Load_Assembly\obj\Debug\net7.0\ref\40-Reflection-Load_Assembly.dll
