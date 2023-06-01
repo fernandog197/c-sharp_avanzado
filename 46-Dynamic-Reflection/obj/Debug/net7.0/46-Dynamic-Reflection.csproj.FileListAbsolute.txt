@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\bin\Debug\net7.0\46-Dynamic-Reflection.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\bin\Debug\net7.0\46-Dynamic-Reflection.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\bin\Debug\net7.0\46-Dynamic-Reflection.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\bin\Debug\net7.0\46-Dynamic-Reflection.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\bin\Debug\net7.0\46-Dynamic-Reflection.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\obj\Debug\net7.0\46-Dynamic-Reflection.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\obj\Debug\net7.0\46-Dynamic-Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\obj\Debug\net7.0\46-Dynamic-Reflection.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\obj\Debug\net7.0\46-Dynamic-Reflection.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\obj\Debug\net7.0\46-Dynamic-Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\obj\Debug\net7.0\46-Dynamic-Reflection.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\obj\Debug\net7.0\refint\46-Dynamic-Reflection.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\obj\Debug\net7.0\46-Dynamic-Reflection.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\obj\Debug\net7.0\46-Dynamic-Reflection.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\46-Dynamic-Reflection\obj\Debug\net7.0\ref\46-Dynamic-Reflection.dll

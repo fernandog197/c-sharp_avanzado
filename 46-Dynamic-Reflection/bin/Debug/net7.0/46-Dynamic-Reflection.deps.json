@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "46-Dynamic-Reflection/1.0.0": {
+        "runtime": {
+          "46-Dynamic-Reflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "46-Dynamic-Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
