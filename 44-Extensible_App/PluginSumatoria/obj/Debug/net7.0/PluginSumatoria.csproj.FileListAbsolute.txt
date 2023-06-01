@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\bin\Debug\net7.0\PluginSumatoria.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\bin\Debug\net7.0\PluginSumatoria.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\bin\Debug\net7.0\PluginSumatoria.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\bin\Debug\net7.0\LibraryTiposPlugin.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\bin\Debug\net7.0\LibraryTiposPlugin.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\obj\Debug\net7.0\PluginSumatoria.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\obj\Debug\net7.0\PluginSumatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\obj\Debug\net7.0\PluginSumatoria.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\obj\Debug\net7.0\PluginSumatoria.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\obj\Debug\net7.0\PluginSumatoria.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\obj\Debug\net7.0\PluginSumatoria.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\obj\Debug\net7.0\PluginSumatoria.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\obj\Debug\net7.0\refint\PluginSumatoria.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\obj\Debug\net7.0\PluginSumatoria.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\PluginSumatoria\obj\Debug\net7.0\ref\PluginSumatoria.dll

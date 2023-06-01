@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\bin\Debug\net7.0\LibraryTiposPlugin.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\bin\Debug\net7.0\LibraryTiposPlugin.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\bin\Debug\net7.0\LibraryTiposPlugin.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\obj\Debug\net7.0\LibraryTiposPlugin.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\obj\Debug\net7.0\LibraryTiposPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\obj\Debug\net7.0\LibraryTiposPlugin.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\obj\Debug\net7.0\LibraryTiposPlugin.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\obj\Debug\net7.0\LibraryTiposPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\obj\Debug\net7.0\LibraryTiposPlugin.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\obj\Debug\net7.0\refint\LibraryTiposPlugin.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\obj\Debug\net7.0\LibraryTiposPlugin.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\LibraryTiposPlugin\obj\Debug\net7.0\ref\LibraryTiposPlugin.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\bin\Debug\net7.0\Plugin01.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\bin\Debug\net7.0\Plugin01.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\bin\Debug\net7.0\Plugin01.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\bin\Debug\net7.0\LibraryTiposPlugin.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\bin\Debug\net7.0\LibraryTiposPlugin.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\obj\Debug\net7.0\Plugin01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\obj\Debug\net7.0\Plugin01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\obj\Debug\net7.0\Plugin01.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\obj\Debug\net7.0\Plugin01.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\obj\Debug\net7.0\Plugin01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\obj\Debug\net7.0\Plugin01.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\obj\Debug\net7.0\Plugin01.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\obj\Debug\net7.0\refint\Plugin01.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\obj\Debug\net7.0\Plugin01.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\44-Extensible_App\Plugin01\obj\Debug\net7.0\ref\Plugin01.dll

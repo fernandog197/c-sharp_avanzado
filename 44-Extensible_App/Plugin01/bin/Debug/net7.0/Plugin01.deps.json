@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Plugin01/1.0.0": {
+        "dependencies": {
+          "LibraryTiposPlugin": "1.0.0"
+        },
+        "runtime": {
+          "Plugin01.dll": {}
+        }
+      },
+      "LibraryTiposPlugin/1.0.0": {
+        "runtime": {
+          "LibraryTiposPlugin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Plugin01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryTiposPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
