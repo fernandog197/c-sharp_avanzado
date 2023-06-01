@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\bin\Debug\net7.0\45-Dynamic-Part_02.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\bin\Debug\net7.0\45-Dynamic-Part_02.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\bin\Debug\net7.0\45-Dynamic-Part_02.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\bin\Debug\net7.0\45-Dynamic-Part_02.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\bin\Debug\net7.0\45-Dynamic-Part_02.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\obj\Debug\net7.0\45-Dynamic-Part_02.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\obj\Debug\net7.0\45-Dynamic-Part_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\obj\Debug\net7.0\45-Dynamic-Part_02.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\obj\Debug\net7.0\45-Dynamic-Part_02.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\obj\Debug\net7.0\45-Dynamic-Part_02.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\obj\Debug\net7.0\45-Dynamic-Part_02.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\obj\Debug\net7.0\refint\45-Dynamic-Part_02.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\obj\Debug\net7.0\45-Dynamic-Part_02.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\obj\Debug\net7.0\45-Dynamic-Part_02.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\45-Dynamic-Part_02\obj\Debug\net7.0\ref\45-Dynamic-Part_02.dll
