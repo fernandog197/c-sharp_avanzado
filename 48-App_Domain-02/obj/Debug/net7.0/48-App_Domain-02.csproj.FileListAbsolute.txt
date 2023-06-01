@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\bin\Debug\net7.0\48-App_Domain-02.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\bin\Debug\net7.0\48-App_Domain-02.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\bin\Debug\net7.0\48-App_Domain-02.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\bin\Debug\net7.0\48-App_Domain-02.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\bin\Debug\net7.0\48-App_Domain-02.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\obj\Debug\net7.0\48-App_Domain-02.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\obj\Debug\net7.0\48-App_Domain-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\obj\Debug\net7.0\48-App_Domain-02.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\obj\Debug\net7.0\48-App_Domain-02.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\obj\Debug\net7.0\48-App_Domain-02.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\obj\Debug\net7.0\48-App_Domain-02.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\obj\Debug\net7.0\refint\48-App_Domain-02.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\obj\Debug\net7.0\48-App_Domain-02.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\obj\Debug\net7.0\48-App_Domain-02.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\c-sharp_avanzado\48-App_Domain-02\obj\Debug\net7.0\ref\48-App_Domain-02.dll
